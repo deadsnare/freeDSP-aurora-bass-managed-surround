@@ -1,0 +1,20 @@
+Front<br/>Left
+Front<br/>Right
+Front<br/>Center
+Surr.<br/>Left
+Surr.<br/>Right
+LFE
+
+
+Front<br/>Left
+Front<br/>Right
+Front<br/>Center
+Surr.<br/>Left
+Surr.<br/>Right
+Sub 1
+Sub 2
+Sub 3
+Preset A
+Preset B
+Preset C
+Preset D
