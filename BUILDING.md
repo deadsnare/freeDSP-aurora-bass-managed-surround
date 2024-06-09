@@ -30,4 +30,4 @@ cd path/to/freeDSP-aurora-bass-management-surround
 . build.sh
 ```
 
-The script assumes that both the cloned `freeDSP-aurora` and `freeDSP-aurora-bass-management-surround` repositories reside in the same parent folder- If this is not the case, you need to modify `build.sh` accordingly. Should the version number of freeDSP Aurora ever change, update the `version` variable in `build.sh`. Also, keep in mind that you may have to generate `aurora.jgz` again.
+The script assumes that both the cloned `freeDSP-aurora` and `freeDSP-aurora-bass-management-surround` repositories reside in the same parent folder. If this is not the case, you need to modify `build.sh` accordingly. Should the version number of freeDSP Aurora ever change, update the `version` variable in `build.sh`. Also, keep in mind that you may have to generate `aurora.jgz` again.
